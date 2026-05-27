@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Local user-specific files
+*.local.json
+appsettings.local.json
+
+# Dependencies
+node_modules/
+packages/
